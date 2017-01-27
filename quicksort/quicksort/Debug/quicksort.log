@@ -1,0 +1,4 @@
+﻿  quicksort.cpp
+c:\prgrmng\quicksort\quicksort\quicksort.cpp(20): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  quicksort.vcxproj -> C:\prgrmng\quicksort\Debug\quicksort.exe
+  quicksort.vcxproj -> C:\prgrmng\quicksort\Debug\quicksort.pdb (Full PDB)
